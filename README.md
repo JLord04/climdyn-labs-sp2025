@@ -1,3 +1,5 @@
+<img src='https://www.physics.ox.ac.uk/sites/default/files/styles/scale_crop_1920x654/public/header_images_group/jet_stream_print_res.jpg?itok=IgQRsI6o' >
+
 ### climdyn-labs-sp2025
 
 
